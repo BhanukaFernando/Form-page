@@ -1,0 +1,35 @@
+.form{
+    padding: 10px;
+    display: block;
+}
+
+.btton-1{
+    background-color: #041daa;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    padding: 10px 25px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+  .btton-2{
+    background-color: #aa0404;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    padding: 10px 25px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+  .btton-3{
+    background-color: green;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    padding: 10px 15px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
